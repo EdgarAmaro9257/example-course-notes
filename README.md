@@ -7,4 +7,4 @@ Here goes my notes for the 'Diplomado de Aplicaciones móviles'.
 -Constants and Variables
 -Collections
 -Data Types
-
+-git
